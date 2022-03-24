@@ -18,8 +18,8 @@
     object-position: center bottom;
     width: auto;
 } */
-.body {
-    background-color: #e0e0e0;
+body {
+    background-color: #f5f5f7;
 }
 
 
@@ -64,7 +64,7 @@
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
     /* height: 35px; */
-    line-height: 25px;
+    /* line-height: 25px; */
     padding: 0;
     /* border-top-right-radius: 0;
     border-bottom-right-radius: 0; */
@@ -106,7 +106,12 @@
        padding: 0 8px;
     }
 
-    .camera-button, .mic-button, .search-button {
+    .camera-button {
+        padding: 3px;
+        padding-left: 4px;
+        margin: 0;
+    }
+    .mic-button{
         padding: 3px;
         margin: 0;
     }
