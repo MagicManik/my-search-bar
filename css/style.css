@@ -60,8 +60,8 @@
     background-color: transparent;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
-    height: 35px;
-    line-height: 35px;
+    /* height: 35px; */
+    line-height: 30px;
     /* border-top-right-radius: 0;
     border-bottom-right-radius: 0; */
     
@@ -102,8 +102,8 @@
         margin: 0;
         padding-left: 8px;
         padding-right: 0px;
-        height: 20px;
-        line-height: 20px;
+        /* height: 20px;
+        line-height: 20px; */
     }
 
     .camera-button, .mic-button, .search-button {
