@@ -99,6 +99,8 @@
 
 @media screen and (max-width: 576px) {
     .search-field {
-
+        margin: 0;
+        padding-left: 5px;
+        padding-right: 0px;
     }
 }
