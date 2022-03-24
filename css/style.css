@@ -52,6 +52,7 @@
     border: none;
     padding-left: 12px;
     position: relative;
+    align-items: center;
     flex: 1 1 auto;
     width: 1%;
     min-width: 0;
@@ -107,5 +108,8 @@
     .camera-button, .mic-button, .search-button {
         padding: 2px;
         margin: 0;
+    }
+    .search-button {
+        margin-right: 5px;
     }
 }
