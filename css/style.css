@@ -27,6 +27,7 @@
 
 .search-div {
     display: flex;
+    align-items: center;
     z-index: 3;
     height: 44px;
     background: #fff;
@@ -104,6 +105,7 @@
     }
 
     .camera-button, .mic-button, .search-button {
-        padding: 0 2px;
+        padding: 2px;
+        margin: 0;
     }
 }
