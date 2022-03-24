@@ -27,7 +27,6 @@
 
 .search-div {
     display: flex;
-    justify-content: center;
     z-index: 3;
     height: 44px;
     background: #fff;
@@ -60,7 +59,7 @@
     background-color: transparent;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
-    /* height: 35px; */
+    height: 35px;
     line-height: 35px;
     /* border-top-right-radius: 0;
     border-bottom-right-radius: 0; */
@@ -100,7 +99,11 @@
 @media screen and (max-width: 576px) {
     .search-field {
         margin: 0;
-        padding-left: 5px;
+        padding-left: 8px;
         padding-right: 0px;
+    }
+
+    .camera-button, .mic-button, .search-button {
+        padding: 0 2px;
     }
 }
