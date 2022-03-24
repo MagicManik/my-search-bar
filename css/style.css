@@ -98,8 +98,7 @@
 
 
 @media screen and (max-width: 576px) {
-    .search-field {
-        margin: 0;
+    .search-div {
         padding-left: 8px;
         padding-right: 0px;
         /* height: 20px;
