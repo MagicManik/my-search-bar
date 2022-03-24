@@ -52,7 +52,6 @@
     border: none;
     padding-left: 12px;
     position: relative;
-    align-items: center;
     flex: 1 1 auto;
     width: 1%;
     min-width: 0;
@@ -110,6 +109,6 @@
         margin: 0;
     }
     .search-button {
-        margin-right: 5px;
+        margin-right: 8px;
     }
 }
