@@ -110,6 +110,7 @@ body {
     
     .search-field {
         line-height: 29px;
+        padding-top: 3px;
     }
 
     .camera-button {
