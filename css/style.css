@@ -54,10 +54,8 @@ body {
         Search Input Field
 -------------------------------- */
 .search-field {
-    display: flex;
-    align-items: center;
-    /* border: none; */
-    /* position: relative; */
+    border: none;
+    position: relative;
     flex: 1 1 auto;
     width: 1%;
     min-width: 0;
@@ -66,8 +64,8 @@ body {
     background-color: transparent;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
-    height: 34px;
-    line-height: 34px;
+    height: 35px;
+    /* line-height: 25px; */
     padding: 0;
     /* border-top-right-radius: 0;
     border-bottom-right-radius: 0; */
