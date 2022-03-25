@@ -109,8 +109,8 @@ body {
     }
     
     .search-field {
-        line-height: 29px;
-        vertical-align: middle;
+        line-height: 30px;
+        padding-top: 4px;
     }
 
     .camera-button {
