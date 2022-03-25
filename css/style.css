@@ -64,9 +64,10 @@ body {
     background-color: transparent;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
-    height: 35px;
-    /* line-height: 25px; */
     padding: 0;
+    height: 35px;
+    line-height: 35px;
+
     /* border-top-right-radius: 0;
     border-bottom-right-radius: 0; */
     
