@@ -107,6 +107,10 @@ body {
     .search-div {
        padding: 0 8px;
     }
+    
+    .search-field {
+        padding-top: 5px;
+    }
 
     .camera-button {
         padding: 3px;
