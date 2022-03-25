@@ -109,7 +109,8 @@ body {
     }
     
     .search-field {
-        padding-top: 5px;
+        padding-top: 3px;
+        margin-top: 3px;
     }
 
     .camera-button {
